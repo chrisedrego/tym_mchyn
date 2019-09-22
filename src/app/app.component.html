@@ -1,0 +1,9 @@
+<div class="container">
+  <div id="profile">
+        <div class="time" id="hours">{{ time | date: 'hh' }}:</div>
+        <div class="time" id="min">{{ time | date: 'mm' }}:</div>
+        <div class="time" id="sec">{{ time | date: 'ss' }}:</div>
+        <div class="time" id="a">{{ time | date: 'a' }}</div>
+  </div>
+</div>
+<router-outlet></router-outlet>
