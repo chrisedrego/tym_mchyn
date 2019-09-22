@@ -1,0 +1,15 @@
+<svg width="390" height="380" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#f9f9f9" id="canvas_background" height="382" width="392" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" transform="rotate(-90 196.00000000000003,191.0721893310547) " canvas-opacity="1" id="svg_14" d="m28.599231,143.911536l44.85643,-81.678673l77.687912,-47.160666l89.712872,0l77.687912,47.160666l44.856419,81.678673l0,94.321344l-44.856419,81.678673l-77.687912,47.160654l-89.712872,0l-77.687912,-47.160654l-44.85643,-81.678673l0,-94.321344z" fill-opacity="null" stroke-opacity="null" stroke-width="23.5" fill="none"/>
+  <text font-weight="bold" stroke="#000" transform="rotate(-0.6445503234863281 195.11788940429338,204.5962371826163) matrix(2.7280062588265754,0,0,2.549717199966008,-451.68668829789254,-16.59525030584573) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="147" id="svg_17" y="136.36612" x="188.068452" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="#000000">T</text>
+ </g>
+</svg>
